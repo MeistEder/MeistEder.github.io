@@ -7,16 +7,26 @@ In 1999, the American Film Institute ranked him the 18th best male movie star of
 
 ## Films and Awards
 
-Year	|	Title			|	Role		|	Awards
---------------------------------------------------------------------------------------------------------------
 
-* 1955	|	East of Eden		|	Cal Trask	|	Golden Globe Special Achievement Award for Best Dramatic Actor
-	|				|			|	Jussi Award for Best Foreign Actor
-	|				|			|	Nominated – Academy Award for Best Actor
-	|				|			|	Nominated – BAFTA Award for Best Foreign Actor
+* 1955	East of Eden
+	* Cal Trask
+		* Golden Globe Special Achievement Award for Best Dramatic Actor
+		* Jussi Award for Best Foreign Actor
+		* Nominated – Academy Award for Best Actor
+		* Nominated – BAFTA Award for Best Foreign Actor
 
-* 1955	|	Rebel Without a Cause	| 	Jim Stark	|	Nominated – BAFTA Award for Best Foreign Actor
+* 1955	Rebel Without a Cause
+	* Jim Stark
+		* Nominated – BAFTA Award for Best Foreign Actor
 
-* 1956	| 	Giant			|	Jett Rink	|	Nominated – Academy Award for Best Actor
+* 1956	Giant
+	* Jett Rink
+		* Nominated – Academy Award for Best Actor
+
+
+> The life you save may be your own.
+> The life you might save might be mine.
+
+
 
 
