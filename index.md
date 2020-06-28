@@ -28,7 +28,7 @@ In 1999, the American Film Institute ranked him the 18th best male movie star of
 > The life you might save might be mine.
 
 
-			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/James_Dean-cigarette-full.jpg/220px-James_Dean-cigarette-full.jpg"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/James_Dean-cigarette-full.jpg/220px-James_Dean-cigarette-full.jpg"/>
 
 
 
